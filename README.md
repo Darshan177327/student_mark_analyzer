@@ -25,3 +25,21 @@ It allows entering details such as Roll Number, Name, and Marks, and provides mu
 Student-Marks-Analyzer/
 └── student_marks_analyzer.cpp
 
+## Developers
+
+| Name | Email |
+|------|-------|
+| Darshan P K | darshandarshanpk@gmail.com |
+
+---
+
+## License
+
+This project was developed for academic and educational purposes.  
+You are free to **reuse and modify** by giving proper credit.
+
+---
+
+## ⭐ Support
+
+If this project helped you, please support by giving the repository a **⭐ star** on GitHub!
